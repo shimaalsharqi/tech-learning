@@ -1,0 +1,12 @@
+Database Technologies
+MySQL
+
+MySQL is a widely used relational database management system known for its reliability and easy integration with web applications. It organizes data into tables and uses SQL queries to manage and retrieve information. MySQL is popular for applications that need structured, consistent, and secure data storage.
+
+MongoDB
+
+MongoDB is a NoSQL database that stores data in flexible, JSON-like documents instead of tables. This makes it ideal for applications that require fast development, scalability, and handling unstructured or changing data. MongoDB is commonly used in modern web and mobile applications where data formats can vary.
+
+PostgreSQL
+
+PostgreSQL is an advanced relational database known for its strong performance, security, and support for complex queries. It follows SQL standards closely and offers many powerful features like JSON support and custom data types. PostgreSQL is often used in enterprise-level applications that require high reliability and accuracy.
