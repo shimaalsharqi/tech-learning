@@ -1,0 +1,13 @@
+MERN Stack is a popular JavaScript-based development stack.
+
+1. Frontend
+
+React.js – Used to build dynamic, fast, and interactive user interfaces.
+
+2. Backend
+
+Node.js with Express.js – Handles server logic, APIs, authentication, and application routing.
+
+3. Database
+
+MongoDB – A NoSQL database that stores data in flexible JSON-like documents.

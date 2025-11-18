@@ -1,0 +1,13 @@
+NET Stack is a Microsoft ecosystem for building web, desktop, mobile, and cloud applications.
+
+1. Frontend
+
+ASP.NET MVC / Razor Pages or Blazor – Used to create interactive web interfaces.
+
+2. Backend
+
+.NET Core / .NET Framework (C#) – Handles business logic, API development, and server-side processing.
+
+3. Database
+
+SQL Server (commonly used), but also supports MySQL, PostgreSQL, and Oracle.

@@ -1,0 +1,13 @@
+Spring Boot Stack is widely used in enterprise-level Java applications.
+
+1. Frontend
+
+Can use Thymeleaf, React, Angular, or Vue for UI.
+
+2. Backend
+
+Spring Boot (Java) – Provides REST APIs, security, business logic, dependency injection, and microservices support.
+
+3. Database
+
+Commonly uses MySQL, PostgreSQL, or MongoDB with Spring Data JPA.
