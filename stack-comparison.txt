@@ -1,8 +1,54 @@
 Introduction
 
 This document compares three popular development stacks: MERN, .NET, and Spring Boot. Each stack includes a combination of frontend, backend, and database technologies that work together to build modern web applications. Understanding their differences helps developers choose the right stack based on project size, performance requirements, and development preferences.
+
 The MERN stack is fully JavaScript-based, using MongoDB, Express.js, React, and Node.js to build fast and scalable web applications. It is popular for modern single-page applications and offers quick development with a large community of JavaScript tools and libraries. MERN is ideal for startups, prototypes, and apps that need rapid iteration.
 
 On the other hand, Spring Boot is a powerful Java-based backend framework commonly used for enterprise-level applications. It is known for strong security, stability, and support for large, complex systems. Spring Boot is typically paired with front-end frameworks like Angular or React and relational databases like MySQL or PostgreSQL.
 
 In summary, MERN is more lightweight and fast for web-focused applications, while Spring Boot is preferred for robust, enterprise-grade systems requiring reliability and scalability.
+=======
+
+MERN vs .NET Comparison
+1. Language & Technology
+
+MERN: Uses JavaScript everywhere (frontend + backend).
+
+.NET: Uses C# for backend; frontend can be Razor, MVC, or Blazor.
+
+2. Performance
+
+MERN: Good performance for real-time apps using Node.js.
+
+.NET: High performance and faster execution due to compiled C# and CLR runtime.
+
+3. Learning Curve
+
+MERN: Easier for beginners because everything uses JavaScript.
+
+.NET: Slightly harder for beginners due to C#, frameworks, and tooling.
+
+4. Development Speed
+
+MERN: Very fast development; huge open-source ecosystem.
+
+.NET: Fast as well, especially with Visual Studio, but more structured.
+
+5. Scalability
+
+MERN: Scales well for web apps, microservices, and startups.
+
+.NET: Extremely scalable—often used in large enterprise systems.
+
+6. Database Options
+
+MERN: MongoDB (default), works best with NoSQL.
+
+.NET: SQL Server, MySQL, PostgreSQL — designed for relational databases.
+
+7. Ideal Use Cases
+
+MERN: Social apps, dashboards, real-time apps, startups.
+
+.NET: Banking systems, enterprise portals, government systems, ERP apps.
+
