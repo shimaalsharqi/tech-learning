@@ -1,3 +1,8 @@
 Introduction
 
 This document compares three popular development stacks: MERN, .NET, and Spring Boot. Each stack includes a combination of frontend, backend, and database technologies that work together to build modern web applications. Understanding their differences helps developers choose the right stack based on project size, performance requirements, and development preferences.
+The MERN stack is fully JavaScript-based, using MongoDB, Express.js, React, and Node.js to build fast and scalable web applications. It is popular for modern single-page applications and offers quick development with a large community of JavaScript tools and libraries. MERN is ideal for startups, prototypes, and apps that need rapid iteration.
+
+On the other hand, Spring Boot is a powerful Java-based backend framework commonly used for enterprise-level applications. It is known for strong security, stability, and support for large, complex systems. Spring Boot is typically paired with front-end frameworks like Angular or React and relational databases like MySQL or PostgreSQL.
+
+In summary, MERN is more lightweight and fast for web-focused applications, while Spring Boot is preferred for robust, enterprise-grade systems requiring reliability and scalability.
