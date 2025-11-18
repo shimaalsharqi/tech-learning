@@ -1,0 +1,3 @@
+Introduction
+
+This document compares three popular development stacks: MERN, .NET, and Spring Boot. Each stack includes a combination of frontend, backend, and database technologies that work together to build modern web applications. Understanding their differences helps developers choose the right stack based on project size, performance requirements, and development preferences.
