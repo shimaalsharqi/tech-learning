@@ -1,0 +1,12 @@
+Frontend Technologies
+HTML (Hypertext Markup Language)
+
+HTML is the foundational language used to structure content on a web page. It defines elements such as headings, paragraphs, images, and links. Every website starts with HTML, which acts as the skeleton of the page.
+
+CSS (Cascading Style Sheets)
+
+CSS is used to style and visually design web pages. It controls colors, fonts, layouts, spacing, and responsiveness. With CSS, developers can make websites attractive and ensure they work well on different screen sizes.
+
+JavaScript
+
+JavaScript adds interactivity and dynamic behavior to web pages. It allows buttons to work, forms to validate, animations to run, and data to be updated without reloading the page. JavaScript is essential for building modern, responsive web applications.
