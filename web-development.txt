@@ -1,3 +1,7 @@
 Web Development
 
 Web development is the process of building and maintaining websites and web applications that run on the internet. It combines different technologies to create the visual interface users interact with, the server logic that processes data, and the database that stores information. Web development is essential today because almost every business and service relies on online platforms. Understanding its main components helps developers create efficient, secure, and user-friendly applications.
+
+Frontend
+
+The frontend is the part of a web application that users see and interact with directly. It is built using HTML for structure, CSS for styling, and JavaScript for interactivity. Modern frameworks like React, Angular, and Vue make frontend development faster and more dynamic. A good frontend focuses on user experience, accessibility, and responsive design for different screen sizes. Everything the user clicks, types, or views happens on the frontend.
