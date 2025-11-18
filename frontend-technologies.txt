@@ -10,3 +10,6 @@ CSS is used to style and visually design web pages. It controls colors, fonts, l
 JavaScript
 
 JavaScript adds interactivity and dynamic behavior to web pages. It allows buttons to work, forms to validate, animations to run, and data to be updated without reloading the page. JavaScript is essential for building modern, responsive web applications.
+
+React – A JavaScript library for building dynamic user interfaces.
+Vue – A progressive JavaScript framework that is easy to learn and use.
