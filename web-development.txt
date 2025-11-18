@@ -1,0 +1,3 @@
+Web Development
+
+Web development is the process of building and maintaining websites and web applications that run on the internet. It combines different technologies to create the visual interface users interact with, the server logic that processes data, and the database that stores information. Web development is essential today because almost every business and service relies on online platforms. Understanding its main components helps developers create efficient, secure, and user-friendly applications.
