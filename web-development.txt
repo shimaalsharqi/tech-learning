@@ -5,3 +5,7 @@ Web development is the process of building and maintaining websites and web appl
 Frontend
 
 The frontend is the part of a web application that users see and interact with directly. It is built using HTML for structure, CSS for styling, and JavaScript for interactivity. Modern frameworks like React, Angular, and Vue make frontend development faster and more dynamic. A good frontend focuses on user experience, accessibility, and responsive design for different screen sizes. Everything the user clicks, types, or views happens on the frontend.
+
+Backend
+
+The backend is the server-side part of a web application that handles logic, data processing, and communication with the database. It receives requests from the frontend, processes them, and returns the necessary information or results. Backend development uses languages and frameworks such as Node.js, Python (Django/Flask), Java (Spring Boot), PHP, and Ruby. It is responsible for authentication, security, API creation, and managing how data flows through the system. Without the backend, the frontend would not be able to retrieve or store information.
