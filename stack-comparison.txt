@@ -51,4 +51,6 @@ MERN: MongoDB (default), works best with NoSQL.
 MERN: Social apps, dashboards, real-time apps, startups.
 
 .NET: Banking systems, enterprise portals, government systems, ERP apps.
+Conclusion
 
+Overall, each technology stack has unique strengths. MERN is great for rapid development using JavaScript, .NET offers strong enterprise features, and Spring Boot provides reliability and scalability. Choosing the right stack depends on project needs, team skills, and long-term goals.
