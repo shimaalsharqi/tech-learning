@@ -9,3 +9,7 @@ The frontend is the part of a web application that users see and interact with d
 Backend
 
 The backend is the server-side part of a web application that handles logic, data processing, and communication with the database. It receives requests from the frontend, processes them, and returns the necessary information or results. Backend development uses languages and frameworks such as Node.js, Python (Django/Flask), Java (Spring Boot), PHP, and Ruby. It is responsible for authentication, security, API creation, and managing how data flows through the system. Without the backend, the frontend would not be able to retrieve or store information.
+
+Database
+
+The database is the part of a web application that stores, organizes, and manages all the data the system needs. It allows the backend to save user information, retrieve records, and update data efficiently. Databases come in two main types: relational databases like MySQL and PostgreSQL, and NoSQL databases like MongoDB. A well-designed database ensures fast performance, data security, and reliability for the application. Without a database, web applications would not be able to store or access important information.
